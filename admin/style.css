@@ -1,0 +1,52 @@
+.slider h3,
+.slider h5,
+.clients h3 {
+text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.parallax-container {
+    height: 24%;
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: 0.5 !important;
+}
+
+.clients img {
+    max-width: 180px;
+    filter:drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
+}
+
+section,footer{
+    padding:20px 0;
+}
+
+.pink.accent-1 {
+	background-color:#e91e63 !important;
+}
+
+.pink.lighten-4 {
+	background-color:#fff0f5 !important;
+}
+
+#footer {
+  background: #e91e63 !important;
+  padding: 30px 0;
+  color: #fff;
+  font-size: 14px;
+}
+
+.darken.center.black-text{
+	font-weight: 500;
+	font-size: 35px;
+	margin-top:15px;
+	padding-bottom:20px;
+}
+
+.text-darken-3.center.black-text{
+	font-weight: 500;
+	font-size: 35px;
+	margin-top:15px;
+	padding-bottom:20px;
+}
